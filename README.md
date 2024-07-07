@@ -19,7 +19,7 @@ This is a Python script that allows users to convert numbers between different b
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/S1lenc3XD/Base-converter.git
+    git clone https://github.com/Milksheikhh/Base-converter.git
     cd base-conversion-tool
     ```
 
